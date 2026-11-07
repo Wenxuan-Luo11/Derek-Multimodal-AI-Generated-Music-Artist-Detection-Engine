@@ -130,7 +130,7 @@ Visit `http://localhost:5000` to inspect tracks via Spotify URL or uploaded audi
 
 ## 👥 Acknowledgements
 
-🏆 *Awarded **Best Overall Presentation** for methodology, multimodal pipeline integration, and presentation execution.* in the University of Amsterdam Data Project.
+🏆 *Awarded **Best Overall Presentation** for methodology, multimodal pipeline integration, and presentation execution.* at the University of Amsterdam MA in Media Studies (Cultural Data & AI)'s Data Project.
 
 ---
 
