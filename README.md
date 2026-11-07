@@ -128,13 +128,9 @@ Visit `http://localhost:5000` to inspect tracks via Spotify URL or uploaded audi
 
 ---
 
-## 👥 Contributors & Acknowledgements
+## 👥 Acknowledgements
 
-Developed as part of the **Data Sprint Project**, MA Media Studies (Cultural Data & AI) at the **University of Amsterdam**:
-- **Wenxuan "Owen" Luo** (Product Owner & Machine Learning Pipeline)
-- Ruben van Dijkhuizen, Samanta Kolanga, Jude Majumdar, Onni Qi, Claire Xu
-
-🏆 *Awarded **Best Overall Presentation** for methodology, multimodal pipeline integration, and presentation execution.*
+🏆 *Awarded **Best Overall Presentation** for methodology, multimodal pipeline integration, and presentation execution.* in the University of Amsterdam Data Project.
 
 ---
 
